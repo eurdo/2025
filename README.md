@@ -10,7 +10,8 @@
 <img width="432" height="336" alt="C1" src="https://github.com/user-attachments/assets/5ff4368b-943c-4ff5-90a4-1f615e0f155f" />
 
 下面我們添加基本屬性方法的邏輯，注意判斷是否為最後一個節點的方式是：最後一個節點的下一個節點是否指向頭部指向的節點。
-<img width="398" height="672" alt="C2" src="https://github.com/user-attachments/assets/a585cf91-2570-4810-9b43-0a0bc5d6d167" />
+
+<img width="398" height="672" alt="C2" src="https://github.com/user-attachments/assets/a585cf91-2570-4810-9b43-0a0bc5d6d167" />/n
 
 <img width="376" height="343" alt="C3" src="https://github.com/user-attachments/assets/fe9040f7-8073-4e4f-a43b-f5ea0a0aa67a" />
 
