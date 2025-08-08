@@ -149,5 +149,21 @@ class DoubleCircularLinkedList:
                     cur.prev.next = cur.next
                     cur.next.prev = cur.prev
                 cur = cur.next
- 
+                
+if __name__ == "__main__":
+    dl = DoubleCircularLinkedList()
+    print("空？", dl.is_empty, "長度:", dl.length)
+
+    dl.add(10)
+    dl.append(20)
+    dl.insert(1, 15)
+    print("內容：")
+    dl.ergodic
+    print("長度:", dl.length)
+
+    print("刪除15")
+    dl.delete(15)
+    dl.ergodic
+    print("長度:", dl.length)
+    print("查找20:", dl.search(20))
         
