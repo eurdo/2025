@@ -29,6 +29,10 @@
 <img width="431" height="432" alt="C6" src="https://github.com/user-attachments/assets/20821649-c8f3-40dc-b1bd-1acb26199372" />/n
 <img width="563" height="552" alt="C7" src="https://github.com/user-attachments/assets/0018fb8d-e1ff-4656-98f4-3d8510b66b4b" />
 
+輸出結果:
+
+<img width="497" height="242" alt="P2" src="https://github.com/user-attachments/assets/21bba727-b610-4ff9-82e9-623f75e5e7ff" />
+
 只以基本的思路實現基本的方法，對於雙向循環鏈表而言還有很多可以優化的地方，正向遍歷和逆向遍歷獲得結果的時間是不一樣的。
 <img width="750" height="203" alt="P1" src="https://github.com/user-attachments/assets/93a6c54c-c70e-48b4-8098-1ecb93483204" />
 
